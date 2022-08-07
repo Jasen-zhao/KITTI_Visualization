@@ -1,0 +1,16 @@
+**__pycache__**
+**build**
+**egg-info**
+**dist**
+*.pyc
+*.idea/
+BEV_img_ipynb/labels_zero/**/*.txt
+BEV_img_ipynb/result/**/*.png
+*.so
+*.yaml
+*.sh
+*.pth
+*.pkl
+*.zip
+**/GPU
+**/GPU_v
