@@ -18,6 +18,9 @@ compare：绘制对比结果，用来对比查找pointpillars、second、pv_rcnn
 save_result：保存查找到的对比结果，将结果保存到result
 labels_zero：用来储存各个模型的baseline和+Fuzzy-NMS的结果（000001.txt、000003.txt....）
 ```
+save_result文件结构\
+![image](img_md/labels.png)
+
 ![image](img_md/compare.png)
 
 ## Matplotlib颜色对照表
